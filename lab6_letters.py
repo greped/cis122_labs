@@ -1,4 +1,4 @@
-# lab6.py
+# lab6_letters.py
 # This is Josh Guertler's submission for Lab 6
 
 def main():
